@@ -1,0 +1,2 @@
+# jdbc_project
+mini_project_by_using_jdbc
